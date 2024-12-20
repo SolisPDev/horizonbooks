@@ -142,9 +142,12 @@ Total de Descargas = 50000.0
 
 ## Créditos
 
-Desarrollado por: **Tu Nombre**
+Desarrollado por: **Antonio Solís Perales - Ing. en Informática**
 
-Inspirado por la pasión por los libros y la tecnología.
+Proyecto de formación como desarrollador Back-End con Java del programa ONE y AluraLatam.
+
+![Grupo 7 ONE](https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png)
+![Grupo 7 ONE](https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg)
 
 ---
 
